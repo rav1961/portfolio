@@ -24,7 +24,7 @@ A fullstack application consisting of a separate backend and frontend. The backe
 
 ### Fonix
 
-**URL:** https://fonix.pl
+**URL:** `fonix.pl`
 **Type:** Company website / CMS
 **Technologies:** PHP, CMS, HTML, CSS, JavaScript, MySQL
 
@@ -35,7 +35,7 @@ Website implementation, content structure preparation, CMS configuration and pro
 
 ### Usługi Wysokościowe
 
-**URL:** https://uslugiwysokosciowe.pl
+**URL:** `uslugiwysokosciowe.pl`
 **Type:** Company website
 **Technologies:** PHP, CMS, HTML, CSS, JavaScript, MySQL
 
@@ -46,7 +46,7 @@ Implementation of a company website presenting service offerings, including subp
 
 ### Energy One
 
-**URL:** https://energyone.pl
+**URL:** `energyone.pl`
 **Type:** Company website + vehicle search module
 **Technologies:** PHP, CMS, React, JavaScript, HTML, CSS, MySQL
 
@@ -57,7 +57,7 @@ Website implementation with a dedicated vehicle search module built as an intera
 
 ### Kancelaria Adwokacka Łuczak
 
-**URL:** https://adwokat-luczak.pl
+**URL:** `adwokat-luczak.pl`
 **Type:** Company website / law office website
 **Technologies:** PHP, CMS, HTML, CSS, JavaScript, MySQL
 
@@ -71,3 +71,11 @@ Implementation of a law office website, including information structure, contact
 The source code of commercial projects is not public due to their business nature.
 
 The source code of the currently developed fullstack project will be publicly available and will present my current approach to working with a modern PHP, Laravel, React and Next.js stack.
+
+---
+
+## Disclaimer
+
+All company names, trademarks and website URLs belong to their respective owners.
+
+The projects are listed only as portfolio references to present selected commercial work and technical experience.
