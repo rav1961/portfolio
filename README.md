@@ -26,7 +26,7 @@ A fullstack application consisting of a separate backend and frontend. The backe
 
 **URL:** `fonix.pl`
 **Type:** Company website / CMS
-**Technologies:** PHP, CMS, HTML, CSS, JavaScript, MySQL
+**Technologies:** PHP, MySQL, CMS, HTML, CSS, JavaScript (jQuery), Bootstrap
 
 **Scope of work:**
 Website implementation, content structure preparation, CMS configuration and project customization according to client requirements.
@@ -37,7 +37,7 @@ Website implementation, content structure preparation, CMS configuration and pro
 
 **URL:** `uslugiwysokosciowe.pl`
 **Type:** Company website
-**Technologies:** PHP, CMS, HTML, CSS, JavaScript, MySQL
+**Technologies:** PHP, MySQL, CMS(WordPress), HTML, CSS, Bootstrap, JavaScript
 
 **Scope of work:**
 Implementation of a company website presenting service offerings, including subpages, a contact form and responsive views for mobile devices.
@@ -48,7 +48,7 @@ Implementation of a company website presenting service offerings, including subp
 
 **URL:** `energyone.pl`
 **Type:** Company website + vehicle search module
-**Technologies:** PHP, CMS, React, JavaScript, HTML, CSS, MySQL
+**Technologies:** PHP, MySQL, CMS, React, HTML, TailwindCss
 
 **Scope of work:**
 Website implementation with a dedicated vehicle search module built as an interactive React frontend component and integrated with the existing website/CMS.
@@ -59,7 +59,7 @@ Website implementation with a dedicated vehicle search module built as an intera
 
 **URL:** `adwokat-luczak.pl`
 **Type:** Company website / law office website
-**Technologies:** PHP, CMS, HTML, CSS, JavaScript, MySQL
+**Technologies:** PHP, MySQL, Bootstrap
 
 **Scope of work:**
 Implementation of a law office website, including information structure, contact form and basic technical optimization.
