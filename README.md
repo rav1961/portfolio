@@ -11,8 +11,8 @@ Some historical projects were delivered commercially, therefore their source cod
 ### Product Configuration Platform
 
 **Status:** Currently in development
-**Source code:** Public 
-**Repository:** [github.com/rav1961/product-configurator](code)
+**Source code:** Public
+**Repository:** [code](https://github.com/rav1961/product-configurator)
 **Type:** Fullstack application / product configurator / quotation request system
 
 **Backend:** PHP 8.4, Laravel 12, PostgreSQL, Redis, RabbitMQ, FilamentPHP
