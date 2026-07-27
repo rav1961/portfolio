@@ -40,7 +40,6 @@ Website implementation, content structure preparation, CMS configuration and pro
 ### Usługi Wysokościowe
 
 **URL:** `uslugiwysokosciowe.pl`
-**Repository:** [code](https://github.com/rav1961/EnergyOne)
 **Type:** Company website
 **Technologies:** PHP, MySQL, CMS(WordPress), HTML, CSS, Bootstrap, JavaScript
 
@@ -52,6 +51,9 @@ Implementation of a company website presenting service offerings, including subp
 ### Energy One
 
 **URL:** `energyone.pl`
+
+**Repository:** [code](https://github.com/rav1961/EnergyOne)
+
 **Type:** Company website + vehicle search module
 **Technologies:** PHP, MySQL, CMS, React, HTML, TailwindCss
 
