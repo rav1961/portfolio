@@ -29,7 +29,9 @@ A fullstack application consisting of a separate backend and frontend. The backe
 ### Fonix
 
 **URL:** `fonix.pl`
+
 **Type:** Company website / CMS
+
 **Technologies:** PHP, MySQL, CMS, HTML, CSS, JavaScript (jQuery), Bootstrap
 
 **Scope of work:**
@@ -40,7 +42,9 @@ Website implementation, content structure preparation, CMS configuration and pro
 ### Usługi Wysokościowe
 
 **URL:** `uslugiwysokosciowe.pl`
+
 **Type:** Company website
+
 **Technologies:** PHP, MySQL, CMS(WordPress), HTML, CSS, Bootstrap, JavaScript
 
 **Scope of work:**
@@ -55,6 +59,7 @@ Implementation of a company website presenting service offerings, including subp
 **Repository:** [code](https://github.com/rav1961/EnergyOne)
 
 **Type:** Company website + vehicle search module
+
 **Technologies:** PHP, MySQL, CMS, React, HTML, TailwindCss
 
 **Scope of work:**
